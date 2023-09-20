@@ -1,0 +1,6 @@
+patch (2.7.6-1) mantic; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Jackson Hansen <madjack971@bsdmail.com>  Wed, 20 Sep 2023 01:42:32 -0700
